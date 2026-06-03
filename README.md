@@ -1,7 +1,7 @@
-# Sistem Perpustakaan Digital
+# AIU Library
 
 ## Deskripsi
-Sistem Perpustakaan Digital adalah aplikasi berbasis web yang dikembangkan untuk membantu pengelolaan perpustakaan secara digital. Sistem ini memungkinkan admin mengelola data buku dan anggota, serta memfasilitasi proses peminjaman dan pengembalian buku.
+ AIU Library adalah Sistem Perpustakaan Digital seperti aplikasi berbasis web yang dikembangkan untuk membantu pengelolaan perpustakaan secara digital. Sistem ini memungkinkan admin mengelola data buku dan anggota, serta memfasilitasi proses peminjaman dan pengembalian buku.
 
 ## Fitur Utama
 - Registrasi dan Login
